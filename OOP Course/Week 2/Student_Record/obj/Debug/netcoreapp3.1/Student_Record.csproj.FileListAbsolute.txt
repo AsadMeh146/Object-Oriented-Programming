@@ -1,0 +1,13 @@
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.exe
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.deps.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.runtimeconfig.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.runtimeconfig.dev.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record\bin\Debug\netcoreapp3.1\Student_Record.pdb
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.csprojAssemblyReference.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.AssemblyInfoInputs.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.AssemblyInfo.cs
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.csproj.CoreCompileInputs.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.pdb
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record\obj\Debug\netcoreapp3.1\Student_Record.genruntimeconfig.cache

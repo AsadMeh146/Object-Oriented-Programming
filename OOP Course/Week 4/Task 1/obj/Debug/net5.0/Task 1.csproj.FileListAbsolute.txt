@@ -1,0 +1,16 @@
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\bin\Debug\net5.0\Task 1.exe
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\bin\Debug\net5.0\Task 1.deps.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.dev.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\bin\Debug\net5.0\Task 1.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\bin\Debug\net5.0\ref\Task 1.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\bin\Debug\net5.0\Task 1.pdb
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\obj\Debug\net5.0\Task 1.csproj.AssemblyReference.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\obj\Debug\net5.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfoInputs.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfo.cs
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\obj\Debug\net5.0\Task 1.csproj.CoreCompileInputs.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\obj\Debug\net5.0\Task 1.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\obj\Debug\net5.0\ref\Task 1.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\obj\Debug\net5.0\Task 1.pdb
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Task 1\obj\Debug\net5.0\Task 1.genruntimeconfig.cache

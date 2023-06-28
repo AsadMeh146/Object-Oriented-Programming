@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Computer And Laptop Accessories Management System/1.0.0": {
+        "runtime": {
+          "Computer And Laptop Accessories Management System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Computer And Laptop Accessories Management System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

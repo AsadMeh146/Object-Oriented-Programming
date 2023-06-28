@@ -1,0 +1,13 @@
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record_Constructor\bin\Debug\netcoreapp3.1\Student_Record_Constructor.exe
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record_Constructor\bin\Debug\netcoreapp3.1\Student_Record_Constructor.deps.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record_Constructor\bin\Debug\netcoreapp3.1\Student_Record_Constructor.runtimeconfig.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record_Constructor\bin\Debug\netcoreapp3.1\Student_Record_Constructor.runtimeconfig.dev.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record_Constructor\bin\Debug\netcoreapp3.1\Student_Record_Constructor.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record_Constructor\bin\Debug\netcoreapp3.1\Student_Record_Constructor.pdb
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record_Constructor\obj\Debug\netcoreapp3.1\Student_Record_Constructor.csprojAssemblyReference.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record_Constructor\obj\Debug\netcoreapp3.1\Student_Record_Constructor.AssemblyInfoInputs.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record_Constructor\obj\Debug\netcoreapp3.1\Student_Record_Constructor.AssemblyInfo.cs
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record_Constructor\obj\Debug\netcoreapp3.1\Student_Record_Constructor.csproj.CoreCompileInputs.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record_Constructor\obj\Debug\netcoreapp3.1\Student_Record_Constructor.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record_Constructor\obj\Debug\netcoreapp3.1\Student_Record_Constructor.pdb
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 2\Student_Record_Constructor\obj\Debug\netcoreapp3.1\Student_Record_Constructor.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+Apple,500,
+Banana,300,
+Mango,600,
+Ali,652Potato,650

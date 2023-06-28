@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Point of sales application ( Multiple classes)/1.0.0": {
+        "runtime": {
+          "Point of sales application ( Multiple classes).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Point of sales application ( Multiple classes)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

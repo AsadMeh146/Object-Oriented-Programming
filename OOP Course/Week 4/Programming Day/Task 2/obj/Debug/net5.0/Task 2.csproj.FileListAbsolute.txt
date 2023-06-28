@@ -1,0 +1,16 @@
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\bin\Debug\net5.0\Task 2.exe
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\bin\Debug\net5.0\Task 2.deps.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\bin\Debug\net5.0\Task 2.runtimeconfig.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\bin\Debug\net5.0\Task 2.runtimeconfig.dev.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\bin\Debug\net5.0\Task 2.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\bin\Debug\net5.0\ref\Task 2.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\bin\Debug\net5.0\Task 2.pdb
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\obj\Debug\net5.0\Task 2.csproj.AssemblyReference.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\obj\Debug\net5.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\obj\Debug\net5.0\Task 2.AssemblyInfoInputs.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\obj\Debug\net5.0\Task 2.AssemblyInfo.cs
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\obj\Debug\net5.0\Task 2.csproj.CoreCompileInputs.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\obj\Debug\net5.0\Task 2.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\obj\Debug\net5.0\ref\Task 2.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\obj\Debug\net5.0\Task 2.pdb
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Programming Day\Task 2\obj\Debug\net5.0\Task 2.genruntimeconfig.cache

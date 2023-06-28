@@ -1,0 +1,16 @@
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\bin\Debug\net5.0\Card Game.exe
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\bin\Debug\net5.0\Card Game.deps.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\bin\Debug\net5.0\Card Game.runtimeconfig.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\bin\Debug\net5.0\Card Game.runtimeconfig.dev.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\bin\Debug\net5.0\Card Game.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\bin\Debug\net5.0\ref\Card Game.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\bin\Debug\net5.0\Card Game.pdb
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\obj\Debug\net5.0\Card Game.csproj.AssemblyReference.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\obj\Debug\net5.0\Card Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\obj\Debug\net5.0\Card Game.AssemblyInfoInputs.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\obj\Debug\net5.0\Card Game.AssemblyInfo.cs
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\obj\Debug\net5.0\Card Game.csproj.CoreCompileInputs.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\obj\Debug\net5.0\Card Game.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\obj\Debug\net5.0\ref\Card Game.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\obj\Debug\net5.0\Card Game.pdb
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 4\Card Game\obj\Debug\net5.0\Card Game.genruntimeconfig.cache

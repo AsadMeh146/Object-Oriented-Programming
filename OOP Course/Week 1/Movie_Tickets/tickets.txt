@@ -1,0 +1,5 @@
+Thor,500
+Avengers,550
+Captain America,650
+Spiderman,550
+Extraction,650

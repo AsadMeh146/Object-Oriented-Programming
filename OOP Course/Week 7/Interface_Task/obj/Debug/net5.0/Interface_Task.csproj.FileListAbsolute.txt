@@ -1,0 +1,16 @@
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\obj\Debug\net5.0\Interface_Task.csproj.AssemblyReference.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\obj\Debug\net5.0\Interface_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\obj\Debug\net5.0\Interface_Task.AssemblyInfoInputs.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\obj\Debug\net5.0\Interface_Task.AssemblyInfo.cs
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\obj\Debug\net5.0\Interface_Task.csproj.CoreCompileInputs.cache
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\bin\Debug\net5.0\Interface_Task.exe
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\bin\Debug\net5.0\Interface_Task.deps.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\bin\Debug\net5.0\Interface_Task.runtimeconfig.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\bin\Debug\net5.0\Interface_Task.runtimeconfig.dev.json
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\bin\Debug\net5.0\Interface_Task.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\bin\Debug\net5.0\ref\Interface_Task.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\bin\Debug\net5.0\Interface_Task.pdb
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\obj\Debug\net5.0\Interface_Task.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\obj\Debug\net5.0\ref\Interface_Task.dll
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\obj\Debug\net5.0\Interface_Task.pdb
+D:\Asad's Data\University Work\Object Oriented Programming ( Summer )\Week 7\Interface_Task\obj\Debug\net5.0\Interface_Task.genruntimeconfig.cache
