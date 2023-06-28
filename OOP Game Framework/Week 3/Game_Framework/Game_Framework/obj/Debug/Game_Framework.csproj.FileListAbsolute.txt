@@ -1,0 +1,10 @@
+D:\Asad's Data\University Work\OOP Game Developement\Week 3\Game_Framework\Game_Framework\bin\Debug\Game_Framework.exe.config
+D:\Asad's Data\University Work\OOP Game Developement\Week 3\Game_Framework\Game_Framework\bin\Debug\Game_Framework.exe
+D:\Asad's Data\University Work\OOP Game Developement\Week 3\Game_Framework\Game_Framework\bin\Debug\Game_Framework.pdb
+D:\Asad's Data\University Work\OOP Game Developement\Week 3\Game_Framework\Game_Framework\obj\Debug\Game_Framework.csproj.AssemblyReference.cache
+D:\Asad's Data\University Work\OOP Game Developement\Week 3\Game_Framework\Game_Framework\obj\Debug\Game_Framework.Form1.resources
+D:\Asad's Data\University Work\OOP Game Developement\Week 3\Game_Framework\Game_Framework\obj\Debug\Game_Framework.Properties.Resources.resources
+D:\Asad's Data\University Work\OOP Game Developement\Week 3\Game_Framework\Game_Framework\obj\Debug\Game_Framework.csproj.GenerateResource.cache
+D:\Asad's Data\University Work\OOP Game Developement\Week 3\Game_Framework\Game_Framework\obj\Debug\Game_Framework.csproj.CoreCompileInputs.cache
+D:\Asad's Data\University Work\OOP Game Developement\Week 3\Game_Framework\Game_Framework\obj\Debug\Game_Framework.exe
+D:\Asad's Data\University Work\OOP Game Developement\Week 3\Game_Framework\Game_Framework\obj\Debug\Game_Framework.pdb

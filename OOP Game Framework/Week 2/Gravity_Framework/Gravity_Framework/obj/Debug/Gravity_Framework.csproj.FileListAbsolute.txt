@@ -1,0 +1,10 @@
+C:\Users\Asad Mehmood\source\repos\Gravity_Framework\Gravity_Framework\bin\Debug\Gravity_Framework.exe.config
+C:\Users\Asad Mehmood\source\repos\Gravity_Framework\Gravity_Framework\bin\Debug\Gravity_Framework.exe
+C:\Users\Asad Mehmood\source\repos\Gravity_Framework\Gravity_Framework\bin\Debug\Gravity_Framework.pdb
+C:\Users\Asad Mehmood\source\repos\Gravity_Framework\Gravity_Framework\obj\Debug\Gravity_Framework.csproj.AssemblyReference.cache
+C:\Users\Asad Mehmood\source\repos\Gravity_Framework\Gravity_Framework\obj\Debug\Gravity_Framework.Gravity.resources
+C:\Users\Asad Mehmood\source\repos\Gravity_Framework\Gravity_Framework\obj\Debug\Gravity_Framework.Properties.Resources.resources
+C:\Users\Asad Mehmood\source\repos\Gravity_Framework\Gravity_Framework\obj\Debug\Gravity_Framework.csproj.GenerateResource.cache
+C:\Users\Asad Mehmood\source\repos\Gravity_Framework\Gravity_Framework\obj\Debug\Gravity_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Asad Mehmood\source\repos\Gravity_Framework\Gravity_Framework\obj\Debug\Gravity_Framework.exe
+C:\Users\Asad Mehmood\source\repos\Gravity_Framework\Gravity_Framework\obj\Debug\Gravity_Framework.pdb
